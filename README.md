@@ -1,1 +1,2 @@
-# CleanCodeNew
+# aircompany
+Project with "code smells" for refactoring
